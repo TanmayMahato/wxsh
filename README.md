@@ -9,16 +9,14 @@ A lightweight weather app built in Bash that fetches the current weather for you
 - Simple setup and easy to customize.
 
 ## Demo 
-[![Watch the demo](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+[![Watch the demo](images/tmb.png)](https://youtu.be/RbVD9ik01bY?si=O6DqIbg8P_NP6wyI)
 > *Click the image above to watch the demo on YouTube.*
 
 ## Project Screenshots 
 
-### Home Screen
-![Home Screen](images/home_screen.png)
+![Output1](images/img1.png)
 
-### Weather Details Output
-![Weather Details](images/weather_output.png)
+![Output2](images/img2.png)
 
 ## Prerequisites
 - Bash (pre-installed on most Linux distributions)
