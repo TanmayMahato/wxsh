@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 set -e
-source .env
+source var.env
 CONF="$HOME/.wxconf" 
 ADDR="$1"
 
