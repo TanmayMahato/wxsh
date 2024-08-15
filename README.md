@@ -8,7 +8,7 @@ A lightweight weather app built in Bash that fetches the current weather for you
 - User-friendly output with details tailored for a smooth experience.
 - Simple setup and easy to customize.
 
-## Demo 
+## Demo Video
 [![Watch the demo](images/tmb.png)](https://youtu.be/RbVD9ik01bY?si=O6DqIbg8P_NP6wyI)
 > *Click the image above to watch the demo on YouTube.*
 
